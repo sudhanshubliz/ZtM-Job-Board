@@ -9143,6 +9143,22 @@
 				"state": "Lisbon",
 				"country": "Portugal"
 			}
-		}
+		},
+		{
+			"id": 575,
+			"name": "Sudhanshu Ratna Thakur",
+			"img": "https://drive.google.com/file/d/1vpd6RBDeebSmIrG_9HKhmkW70yTyrSMs/view",
+			"links": {
+				"website": "",
+				"linkedin": "https://www.linkedin.com/in/sudhanshuratna/",
+				"github": "https://github.com/sudhanshubliz"
+			},
+			"jobTitle": "Full-Stack Developer | Spring Boot | Java Developer",
+			"location": {
+				"city": "Delhi",
+				"state": "Delhi",
+				"country": "India"
+      } 
+    }
 	]
 }
